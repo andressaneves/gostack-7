@@ -1,0 +1,25 @@
+{
+  "name": "gostack-7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": "git+https://github.com/AndressaNeves/gostack-7.git",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndressaNeves/gostack-7/issues"
+  },
+  "homepage": "https://github.com/AndressaNeves/gostack-7#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "yarn": "^1.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
